@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WidgetsApp</string>
+
+    <array name="countries">
+
+        <item>INDIA</item>
+        <item>USA</item>
+        <item>UK</item>
+        <item>FRANCE</item>
+        <item>GERMANY</item>
+    </array>
+</resources>
